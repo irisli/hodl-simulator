@@ -22,3 +22,16 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.App__function {
+  width: 100%;
+  max-width: 500px;
+  font-size: 18px;
+  min-height: 300px;
+}
+.App__parseError {
+  padding: 1em;
+  border: 1px solid red;
+}
+
+.Results {}
